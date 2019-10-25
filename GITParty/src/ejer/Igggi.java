@@ -1,5 +1,5 @@
 package ejer;
 
-public class Iggy {
+public class Igggi {
 
 }
